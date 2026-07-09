@@ -5,7 +5,7 @@
     "role": "Chief Patron",
     "designation": "Hon'ble Chancellor",
     "institution": "CGC University",
-    "image": "/RASHPAL-SIR.jpg",
+    "image": "/RASHPAL-SIR.jpeg",
     "bio": "A visionary academic leader supporting global conversations in humanities, ethics and future-facing education.",
     "researchAreas": ["Higher education leadership", "Institution building", "Academic transformation"],
     "featured": true
@@ -15,7 +15,7 @@
     "role": "Chief Patron",
     "designation": "Managing Director",
     "institution": "CGC University",
-    "image": "/ARSH-SIR.jpg",
+    "image": "/ARSH-SIR.jpeg",
     "bio": "A strategic institutional leader committed to international collaboration, innovation and student-centered academic excellence.",
     "researchAreas": ["Innovation ecosystems", "Global partnerships", "Education strategy"],
     "featured": true
@@ -43,7 +43,7 @@
     "role": "Patron",
     "designation": "Academic Administrator",
     "institution": "CGC University",
-    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=900&q=80",
+    "image": "/anupam.jpeg",
     "bio": "Enables cross-disciplinary academic coordination and scholarly outreach.",
     "researchAreas": ["Institutional collaboration", "Humanities education", "Academic operations"]
   },
@@ -61,18 +61,9 @@
     "role": "Patron",
     "designation": "Academic Administrator",
     "institution": "CGC University",
-    "image": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=900&q=80",
+    "image": "/sandeep.jpeg",
     "bio": "Contributes to conference planning, institutional engagement and scholarly programming.",
     "researchAreas": ["Conference strategy", "Academic engagement", "Humanities outreach"]
-  },
-  {
-    "name": "Dr. Pawan Kumar Shukla",
-    "role": "Conference Chair",
-    "designation": "Conference Chair",
-    "institution": "CGC University",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=80",
-    "bio": "Leads the scholarly vision, peer-review direction and academic tone of ICHC 2027.",
-    "researchAreas": ["Literary studies", "Interdisciplinary humanities", "Research methods"]
   },
   {
     "name": "Dr. Anamol Gautam",
@@ -107,16 +98,6 @@
     "designation": "Faculty Co-Convener",
     "institution": "CGC University",
     "image": "/ayushi.jpeg",
-    "bio": "Helps coordinate submissions, communications and participant support.",
-    "researchAreas": ["Digital humanities", "Academic communication", "Research support"]
-  },
-
-  {
-    "name": "Dr. Parveen Kumar",
-    "role": "Local Organizing Team",
-    "designation": "Faculty",
-    "institution": "CGC University",
-    "image": "/parveen.jpeg",
     "bio": "Helps coordinate submissions, communications and participant support.",
     "researchAreas": ["Digital humanities", "Academic communication", "Research support"]
   }
