@@ -34,7 +34,7 @@ export function Committee() {
         <SectionHeading
           eyebrow="Organizing Committee"
           title="A distinguished committee with global academic ambition"
-          body="Premium profile cards are powered by an easy-to-edit JSON structure for names, roles, photos and biographies."
+          // body="Premium profile cards are powered by an easy-to-edit JSON structure for names, roles, photos and biographies."
         />
 
         <div className="mt-14 grid gap-6 lg:grid-cols-2">

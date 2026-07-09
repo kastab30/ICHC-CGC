@@ -42,7 +42,7 @@ export function University() {
         <SectionHeading
           eyebrow="Host University"
           title="A campus setting for scholarship, dialogue and discovery"
-          body="Campus photography placeholders can be replaced with CGC University drone shots, auditorium images and research spaces."
+          // body="Campus photography placeholders can be replaced with CGC University drone shots, auditorium images and research spaces."
         />
         <Reveal className="glass-card relative mt-14 overflow-hidden rounded-[24px] p-4">
           <div className="relative min-h-[520px] overflow-hidden rounded-[20px]">

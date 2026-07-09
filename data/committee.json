@@ -88,7 +88,7 @@
     "role": "Convener",
     "designation": "Faculty Convener",
     "institution": "CGC University",
-    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=900&q=80",
+    "image": "/manjot.jpeg",
     "bio": "Oversees interdisciplinary coordination and supports author engagement.",
     "researchAreas": ["Language studies", "Communication", "Conference curation"]
   },
@@ -97,7 +97,7 @@
     "role": "Co-Convener",
     "designation": "Faculty Co-Convener",
     "institution": "CGC University",
-    "image": "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?auto=format&fit=crop&w=900&q=80",
+    "image": "/dr-ananya.jpeg",
     "bio": "Supports academic coordination and the research track experience.",
     "researchAreas": ["Postcolonial studies", "Gender studies", "Literature"]
   },
@@ -106,7 +106,17 @@
     "role": "Co-Convener",
     "designation": "Faculty Co-Convener",
     "institution": "CGC University",
-    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=900&q=80",
+    "image": "/ayushi.jpeg",
+    "bio": "Helps coordinate submissions, communications and participant support.",
+    "researchAreas": ["Digital humanities", "Academic communication", "Research support"]
+  },
+
+  {
+    "name": "Dr. Parveen Kumar",
+    "role": "Local Organizing Team",
+    "designation": "Faculty",
+    "institution": "CGC University",
+    "image": "/parveen.jpeg",
     "bio": "Helps coordinate submissions, communications and participant support.",
     "researchAreas": ["Digital humanities", "Academic communication", "Research support"]
   }
